@@ -163,19 +163,7 @@ Generated business insights to support operational and strategic decision-making
 
 ## 📷 Dashboard Preview
 
-### Main Dashboard
 
-(Add Dashboard Screenshot Here)
-
-### Revenue Analysis
-
-(Add Screenshot Here)
-
-### Customer & Vehicle Insights
-
-(Add Screenshot Here)
-
----
 
 ## 📌 Key Insights
 
